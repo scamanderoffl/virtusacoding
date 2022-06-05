@@ -1,4 +1,5 @@
-##Electrostatic Field
+##  Electrostatic Field
+
 Doug is fond of change, every now and then he tries to do new things. This time, he caught up with a rod comprising of negative (N) and positive (P) charges.
 He is asked to calculate the maximum net electrostatic field possible in the region due to the rod.
 
