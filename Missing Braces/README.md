@@ -18,27 +18,20 @@ Example 1:
 
 input:
 
-public static void main(String[] args) {
-
-System.out.println("Hello, World!");
-
-       if(true){
+       public static void main(String[], args) {
+              if(true) {
+                     System.out.print("hello world!");
+              }
        
-System.out.print("hello , world!")
-
-   }
-  
 output: error
 
 Example 2:
 
 input:
 
-for(int counter = 0; counter < 10; counter++) {
-
-    System.out.print("Value of counter is: " + counter);
-    
-}
+       for(int counter = 0; counter < 10; counter++) {
+              System.out.print("Value of counter is: " + counter);
+       }
 
 output: correct
 
